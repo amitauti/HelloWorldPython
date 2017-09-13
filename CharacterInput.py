@@ -3,6 +3,7 @@
 #  to them that tells them the year that they will turn 100 years old.
 
 from datetime import date
+from time import time
 
 def main():
     name = get_name()
