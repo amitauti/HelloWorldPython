@@ -28,7 +28,7 @@ def askuser():
     num_one = int(float(str1))
     num_two = int(float(str2))
 
-# this is comment
+# this is comment this 
 
     if num_two == 0:
         print("We can not devide by zero")
