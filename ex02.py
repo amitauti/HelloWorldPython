@@ -28,6 +28,8 @@ def askuser():
     num_one = int(float(str1))
     num_two = int(float(str2))
 
+# this is comment
+
     if num_two == 0:
         print("We can not devide by zero")
         sys.exit()
