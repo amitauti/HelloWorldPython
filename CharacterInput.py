@@ -15,3 +15,6 @@ def main():
         print("You are already 100 years old")
     else:
         print("Hello" )
+
+if __name__ == '__main__':
+    main()
